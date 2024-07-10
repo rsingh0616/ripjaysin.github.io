@@ -38,27 +38,28 @@
 
 ### Relevant Coursework
 
-<table>
-  <tr>
-    <td>
-      - Information Security and Privacy<br>
-      - Disaster Recovery<br>
-      - Cloud Security<br>
-      - Information Systems Security Engineering and Management<br>
-      - Penetration Testing<br>
-      - Network Security<br>
-    </td>
-    <td>
-      - Digital Forensics<br>
-      - Secure Software Development<br>
-      - Cybersecurity Risk Management<br>
-      - Cryptography<br>
-      - Machine Learning<br>
-      - Software Engineering<br>
-      - Linux/Unix<br>
-    </td>
-  </tr>
-</table>
+### Relevant Coursework
+
+<div style="display: flex;">
+  <div style="flex: 1; padding-right: 10px;">
+    - Information Security and Privacy<br>
+    - Disaster Recovery<br>
+    - Cloud Security<br>
+    - Information Systems Security Engineering and Management<br>
+    - Penetration Testing<br>
+    - Network Security<br>
+  </div>
+  <div style="flex: 1; padding-left: 10px;">
+    - Digital Forensics<br>
+    - Secure Software Development<br>
+    - Cybersecurity Risk Management<br>
+    - Cryptography<br>
+    - Machine Learning<br>
+    - Software Engineering<br>
+    - Linux/Unix<br>
+  </div>
+</div>
+
 
 
 
