@@ -27,12 +27,12 @@
 **AWS** (S3, EC2, Glue, Redshift, Lambda, Fargate, Athena, DynamoDB), **Azure**, **Google Cloud Platform**
 
 
-## Education
-- **Master of Science, Cybersecurity** | New York University, Tandon School of Engineering | New York, NY (_May 2025_)
+## Education	       		
+- **M.S., Cybersecurity | New York University** (_May 2021_)		        		
   - GPA: 3.88
   - Involvement: Cyber Fellow, Member – IEEE@NYU, Member – NYU Consulting Club, Member – Cyber Security Club
 
-- **Bachelor of Science, Computer Science** | New Jersey City University, Maxwell College of Arts and Sciences | Jersey City, NJ (_May 2021_)
+- **B.S., Computer Science | New Jersey City University** (_May 2021_)
   - GPA: 3.98
   - Involvement: Summa Cum Laude, President and Founder – Enactus, Member – Goldman Sachs Local College Collaborative
 
