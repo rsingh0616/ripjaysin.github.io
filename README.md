@@ -271,11 +271,7 @@ With optimal marketing strategies, presidential candidates will be able to bette
    
 ## Certifications
 <div>
-<img src="https://img.shields.io/badge/-Cisco%20Certified%20Network%20Associate%20(CCNA)-000080?&style=for-the-badge&logo=Cisco&logoColor=white" />
-<img src="https://img.shields.io/badge/-Google%20Cybersecurity%20Professional%20Certificate-FF0000?&style=for-the-badge&logo=Google&logoColor=white" />
-<img src="https://img.shields.io/badge/-Google%20IT%20Support%20Professional%20Certificate-007ACC?&style=for-the-badge&logo=Google&logoColor=white" />
-<img src="https://img.shields.io/badge/-Cisco%20Junior%20Cyber%20Security%20Analyst%20Career%20Path-4D4D4D?&style=for-the-badge&logo=Cisco&logoColor=white" />
-<img src="https://img.shields.io/badge/-Oracle%20Cloud%20Infrastructure%20Foundations%20Associate-006400?&style=for-the-badge&logo=Oracle&logoColor=white" />
+<img src="https://img.shields.io/badge/-ISC2%20Certified%20in%20Cybersecurity%20(CC)-00599C?style=for-the-badge&logoColor=white" />
 </div><br>
 
 
