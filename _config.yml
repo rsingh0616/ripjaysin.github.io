@@ -1,5 +1,8 @@
 title: Ripunjay Singh
 logo: /headshot.png
-#description: Welcome to my portfolio
+description: <a href="https://www.linkedin.com/in/ripunjaysingh/">LinkedIn</a>
+description: <a href="https://medium.com/@ripunjay65">Medium</a>
+description: <a href="https://www.amazon.com/VisWis-Ripunjay-Singh/dp/B0CLJRTMP2">Poetry</a>
+description: Welcome to my portfolio
 show_downloads: true
 theme: jekyll-theme-minimal
