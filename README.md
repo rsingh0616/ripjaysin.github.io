@@ -83,16 +83,19 @@ With optimal marketing strategies, presidential candidates will be able to bette
     <img src="https://img.shields.io/badge/-Nmap-4D4D4D?&style=for-the-badge&logo=Nmap&logoColor=white" />
 </div>
 
+
 ### Endpoint
 <div>
     <img src="https://img.shields.io/badge/-Microsoft_Defender_for_Endpoint-00A4EF?&style=for-the-badge&logo=Microsoft&logoColor=white" />
 </div>
+
 
 ### SIEM
 <div>
     <img src="https://img.shields.io/badge/-Microsoft_Sentinel-0078D4?&style=for-the-badge&logo=Microsoft&logoColor=white" />
     <img src="https://img.shields.io/badge/-Snort-0080FF?&style=for-the-badge&logo=Snort&logoColor=white" />
 </div>
+
 
 ### Vulnerability Management
 <div>
@@ -103,12 +106,14 @@ With optimal marketing strategies, presidential candidates will be able to bette
     <img src="https://img.shields.io/badge/-Maltego-3F72AF?&style=for-the-badge&logo=Maltego&logoColor=white" />
 </div>
 
+
 ### Incident Response
 <div>
     <img src="https://img.shields.io/badge/-AlienVault_Open_Source_SIEM-000000?&style=for-the-badge&logo=AlienVault&logoColor=white" />
     <img src="https://img.shields.io/badge/-OpenVAS-2ECC71?&style=for-the-badge&logo=OpenVAS&logoColor=white" />
     <img src="https://img.shields.io/badge/-Snort-0080FF?&style=for-the-badge&logo=Snort&logoColor=white" />
 </div>
+
 
 ### Web Application Security
 <div>
@@ -126,6 +131,7 @@ With optimal marketing strategies, presidential candidates will be able to bette
     <img src="https://img.shields.io/badge/-Nmap-4D4D4D?&style=for-the-badge&logo=Nmap&logoColor=white" />
     <img src="https://img.shields.io/badge/-Maltego-4B0082?&style=for-the-badge&logoColor=white" />
 </div>
+
 
 ### Firewall 
 <div>
@@ -163,6 +169,7 @@ With optimal marketing strategies, presidential candidates will be able to bette
     <img src="https://img.shields.io/badge/-MxToolbox-D60651?&style=for-the-badge&logoColor=white" />
 </div>
 
+
 ### Malware Detection and Removal (Anti-virus)
 <div>
     <img src="https://img.shields.io/badge/-Windows_Anti_virus-0078D6?&style=for-the-badge&logo=Windows&logoColor=white" />
@@ -186,8 +193,8 @@ With optimal marketing strategies, presidential candidates will be able to bette
 ### Scripting and Automation
 <div>
     <img src="https://img.shields.io/badge/-Python-3776AB?&style=for-the-badge&logo=Python&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Bash-3776AB?&style=for-the-badge&logo=Bash&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Powershell-3776AB?&style=for-the-badge&logo=Powershell&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Bash-E95420?&style=for-the-badge&logo=Bash&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Powershell-557C94?&style=for-the-badge&logo=Powershell&logoColor=white" />
 </div>
 
 
@@ -261,7 +268,6 @@ With optimal marketing strategies, presidential candidates will be able to bette
 ## Certifications
 <div>
 <img src="https://img.shields.io/badge/-Cisco%20Certified%20Network%20Associate%20(CCNA)-000080?&style=for-the-badge&logo=Cisco&logoColor=white" />
-</div>    
 <img src="https://img.shields.io/badge/-Google%20Cybersecurity%20Professional%20Certificate-FF0000?&style=for-the-badge&logo=Google&logoColor=white" />
 <img src="https://img.shields.io/badge/-Google%20IT%20Support%20Professional%20Certificate-007ACC?&style=for-the-badge&logo=Google&logoColor=white" />
 <img src="https://img.shields.io/badge/-Cisco%20Junior%20Cyber%20Security%20Analyst%20Career%20Path-4D4D4D?&style=for-the-badge&logo=Cisco&logoColor=white" />
