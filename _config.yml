@@ -1,8 +1,8 @@
 title: Ripunjay Singh
 logo: /headshot.png
-LinkedIn: <a href="https://www.linkedin.com/in/ripunjaysingh/">LinkedIn</a>
-Medium: <a href="https://medium.com/@ripunjay65">Medium</a>
-Poetry: <a href="https://www.amazon.com/VisWis-Ripunjay-Singh/dp/B0CLJRTMP2">Poetry</a>
-description: Welcome to my portfolio
+description: Welcome to my portfolio! Hi everyone! I am Ripunjay Singh, currently pursuing my Master of Science in Cybersecurity at NYU Tandon. My journey is all about exploring Information Security, Cloud Security, and Digital Forensics, using tools like AWS Glue, Redshift, and Snowflake to tackle real-world data challenges.
+description: With experience as a Security Solutions Architect at Verizon Business, I have focused on building resilient EDR solutions and automating network diagrams using Python and PowerShell. I am driven by my passion for incident response, vulnerability management, and ensuring compliance with NIST, ISO, and PCI-DSS standards.
+description: I am currently interning as an AI/ML Engineer at LTIMindtree, where I am immersed in developing insurance risk analytics systems. I enjoy applying AWS GenAI and Tableau to transform MSSQL, MySQL, and Db2 data into actionable insights, making a real impact on decision-making and efficiency.
+description: Outside of academics and work, I am an active member of IEEE@NYU and the Cyber Security Club. I am deeply engaged in cybersecurity research, particularly in software supply chain threats, and love using tools like Splunk to analyze and protect against emerging threats.
 show_downloads: true
 theme: jekyll-theme-minimal
