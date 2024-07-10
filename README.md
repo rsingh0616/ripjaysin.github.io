@@ -157,7 +157,6 @@ With optimal marketing strategies, presidential candidates will be able to bette
 ### Cryptography
 <div>
     <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
-    <img src="https://img.shields.io/badge/-7-Zip-000000?&style=for-the-badge&logo=7-Zip&logoColor=white" />
     <img src="https://img.shields.io/badge/-BitLocker-0078D7?&style=for-the-badge&logo=Microsoft&logoColor=white" />
     <img src="https://img.shields.io/badge/-PowerShell-5391FE?&style=for-the-badge&logo=PowerShell&logoColor=white" />
     <img src="https://img.shields.io/badge/-Hex%20Workshop-CC6600?&style=for-the-badge&logo=Hex%20Workshop&logoColor=white" />
@@ -279,14 +278,16 @@ With optimal marketing strategies, presidential candidates will be able to bette
 <img src="https://img.shields.io/badge/-Oracle%20Cloud%20Infrastructure%20Foundations%20Associate-006400?&style=for-the-badge&logo=Oracle&logoColor=white" />
 </div><br>
 
-### Memberships
+
+## Memberships
 - **ISACA**
 - **(ISC)2**
 - **IEEE@NYU**
 - **Cyber Fellows**
 - **Mastermind Mentorship Program**
 
-### Awards
+
+## Awards
 - **Winner, (ISC)2 Capture the Flag**
 - **Winner, UPS Hackathon**
 - **Gold Medal – School of Business**
