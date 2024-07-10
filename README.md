@@ -92,6 +92,7 @@ With optimal marketing strategies, presidential candidates will be able to bette
 <div>
     <img src="https://img.shields.io/badge/-Microsoft_Sentinel-0078D4?&style=for-the-badge&logo=Microsoft&logoColor=white" />
     <img src="https://img.shields.io/badge/-Snort-0080FF?&style=for-the-badge&logo=Snort&logoColor=white" />
+</div>
 
 ### Vulnerability Management
 <div>
@@ -135,10 +136,12 @@ With optimal marketing strategies, presidential candidates will be able to bette
     <img src="https://img.shields.io/badge/-FortiGate-EE3124?&style=for-the-badge&logo=Fortinet&logoColor=white" />
 </div>
 
+
 ### VPNs
 <div>
     <img src="https://img.shields.io/badge/-OpenVPN-00A4EF?&style=for-the-badge&logo=OpenVPN&logoColor=white" />
 </div>
+
 
 ### Cryptography
 <div>
@@ -148,7 +151,6 @@ With optimal marketing strategies, presidential candidates will be able to bette
     <img src="https://img.shields.io/badge/-PowerShell-5391FE?&style=for-the-badge&logo=PowerShell&logoColor=white" />
     <img src="https://img.shields.io/badge/-Hex%20Workshop-CC6600?&style=for-the-badge&logo=Hex%20Workshop&logoColor=white" />
 </div>
-
 
 
 ### Malware Analysis 
@@ -180,13 +182,14 @@ With optimal marketing strategies, presidential candidates will be able to bette
     <img src="https://img.shields.io/badge/-Ubuntu_Server-E95420?&style=for-the-badge&logo=Ubuntu&logoColor=white" />
 </div>
 
+
 ### Scripting and Automation
 <div>
     <img src="https://img.shields.io/badge/-Python-3776AB?&style=for-the-badge&logo=Python&logoColor=white" />
     <img src="https://img.shields.io/badge/-Bash-3776AB?&style=for-the-badge&logo=Bash&logoColor=white" />
     <img src="https://img.shields.io/badge/-Powershell-3776AB?&style=for-the-badge&logo=Powershell&logoColor=white" />
-  
-  </div>
+</div>
+
 
 ### Cloud Services
 <div>
