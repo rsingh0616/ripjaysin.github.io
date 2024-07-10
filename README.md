@@ -37,13 +37,29 @@
   - Involvement: Summa Cum Laude, President and Founder – Enactus, Member – Goldman Sachs Local College Collaborative
 
 ### Relevant Coursework
-- **Information Security and Privacy**               | **Network Security**
-- **Disaster Recovery**                               | **Digital Forensics**
-- **Cloud Security**                                  | **Secure Software Development**
-- **Information Systems Security Engineering**        | **Cybersecurity Risk Management**
-- **Penetration Testing**                             | **Cryptography**
-- **Machine Learning**                                | **Linux/Unix**
-- **Software Engineering**
+
+<table>
+  <tr>
+    <td>
+      - Information Security and Privacy<br>
+      - Disaster Recovery<br>
+      - Cloud Security<br>
+      - Information Systems Security Engineering and Management<br>
+      - Penetration Testing<br>
+      - Network Security<br>
+    </td>
+    <td>
+      - Digital Forensics<br>
+      - Secure Software Development<br>
+      - Cybersecurity Risk Management<br>
+      - Cryptography<br>
+      - Machine Learning<br>
+      - Software Engineering<br>
+      - Linux/Unix<br>
+    </td>
+  </tr>
+</table>
+
 
 
 ## Work Experience
