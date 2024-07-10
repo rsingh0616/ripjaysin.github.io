@@ -279,14 +279,14 @@ With optimal marketing strategies, presidential candidates will be able to bette
 <img src="https://img.shields.io/badge/-Oracle%20Cloud%20Infrastructure%20Foundations%20Associate-006400?&style=for-the-badge&logo=Oracle&logoColor=white" />
 </div><br>
 
-## Other
+### Memberships
+- **ISACA**
+- **(ISC)2**
+- **IEEE@NYU**
+- **Cyber Fellows**
+- **Mastermind Mentorship Program**
 
-### **Memberships**
-- **ISACA
-- (ISC)2
-- IEEE@NYU
-- Cyber Fellows
-- Mastermind Mentorship Program**
-
-### **Awards**
-**Winner – (ISC)2 Capture the Flag, Winner – UPS Hackathon, Gold Medal – School of Business**
+### Awards
+- **Winner, (ISC)2 Capture the Flag**
+- **Winner, UPS Hackathon**
+- **Gold Medal – School of Business**
