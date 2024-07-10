@@ -1,10 +1,8 @@
 # Cybersecurity Analyst
 
-#### Technical Skills: Python, SQL, AWS, Bash, Vulnerability Management, 
-
-## Education	       		
-- M.S., Cybersecurity | New York University (_May 2025_)   		
-- B.S., Computer Science | New Jersey City University (_May 2021_)
+## Education		
+- M.S., Cybersecurity	| New York University (_May 2025_)	 			        		
+- B.S., Computer Science | New Jersey City University (_May 2021_)    		
 
 ### Relevant Coursework
   - Information Security and Privacy<br>
@@ -22,7 +20,6 @@
   - Linux/Unix<br>
 
 ## Work Experience
-
 **AI/ML Engineer Intern @ LTIMindtree (_June 2024 - Present_)**
 - Developed an insurance risk analytics system to provide actionable risk insights, improving decision-making by 55%
 - Utilized AWS Glue to migrate MSSQL, MySQL, and Db2 data to Redshift and Snowflake databases
@@ -51,21 +48,21 @@
 
 ## Projects
 ### Proposing a Zero Trust and Blockchain Approach to Tackle Software Supply Chain Attacks 
-Publication[https://infonomics-society.org/jitst/published-papers/volume-11-2023/]
+[Publication](https://infonomics-society.org/jitst/published-papers/volume-11-2023/)
 
 Proposed a novel approach involving the integration of a robust Zero Trust and Blockchain application reinforced by comprehensive, standardized policies for the Policy EnforcemENT Point (PEP), as characterized in the NIST SP 800-53 . This framework aims to enhance the security and resilience of the software supply chain, promoting decentralization and immutability. 
 
-Reference Architecture[/jitst.png]
+![Reference Architecture](/jitst.png)
 
 ### Malware Memory Analysis
-Link[https://github.com/rsingh0616/Malware-Memory-Analysis]
+[Link](https://github.com/rsingh0616/Malware-Memory-Analysis)
 
 Developed machine learning models to classify obfuscated malware concealed within memory to evade any traditional detection methods. The dataset used for this project is called CIC_MalMem2022 dataset and contains memory-based malware samples that are curated to mimic real-world scenarios.
 
-Malware Analysis [/malware.png]
+![Malware Analysis](/malware.png)
 
 ### Impact of Ad Spending on U.S Presidential Election Outcomes
-Link[https://github.com/rsingh0616/Data-Science-4-All---Cohort-1]
+[Link](https://github.com/rsingh0616/Data-Science-4-All---Cohort-1)
 
 Advertising spending for candidates running for federal office has reached unprecedented amounts, totaling at least $2.5 billion on TV ads so far (PBS, 2020). New political election spending projections for 2020 will now hit $10.8 billion, according to an estimate from the Center for Responsive Politics—50% higher than the 2016 presidential election period (MediaPost, 2020). Advertising spending does not inherently indicate who will win any election. For instance, although Hillary Clinton spent $1,184.1M for the 2016 presidential election, she did not win more electoral votes than Donald Trump although he only spent $616.5M (Bloomberg, 2016).
 
@@ -75,59 +72,39 @@ Political campaign spending has been increasing over time, making it increasingl
 PROJECT DEFINITION AND SCOPE
 With optimal marketing strategies, presidential candidates will be able to better market their campaigns in a way that translates to votes, allocating their marketing budget in a way that reaches the audiences most critical to the success of presidential candidates. We also anticipate that this can inform presidential campaigns about where marketing spend would be ideal for the success of their campaigns.
 
-Datafolio[/data.png]
+![Datafolio](/data.png)
 
 ## Tools
 
 ### Network
 <div>
     <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Suricata-EF3B2D?&style=for-the-badge&logo=Suricata&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Zeek-777BB4?&style=for-the-badge&logo=Zeek&logoColor=white" />
     <img src="https://img.shields.io/badge/-Owasp%20Zap-FF4000?&style=for-the-badge&logo=OWASP&logoColor=white" />
     <img src="https://img.shields.io/badge/-Nmap-4D4D4D?&style=for-the-badge&logo=Nmap&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Wazuh-2E86C1?&style=for-the-badge&logo=Wazuh&logoColor=white" />
-    <img src="https://img.shields.io/badge/-GlassWire-33CCFF?&style=for-the-badge&logo=GlassWire&logoColor=white" />
-    <img src="https://img.shields.io/badge/-netstat-2E86C1?&style=for-the-badge&logo=netstat&logoColor=white" />
-    <img src="https://img.shields.io/badge/-sniffnet-2E86C1?&style=for-the-badge&logo=sniffnet&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Xirrus_WiFi_Inspector-2E86C1?&style=for-the-badge&logo=Xirrus&logoColor=white" />
 </div>
 
 ### Endpoint
 <div>
     <img src="https://img.shields.io/badge/-Microsoft_Defender_for_Endpoint-00A4EF?&style=for-the-badge&logo=Microsoft&logoColor=white" />
-    <img src="https://img.shields.io/badge/-ClamAV-4B275F?&style=for-the-badge&logo=ClamAV&logoColor=white" />
-    <img src="https://img.shields.io/badge/-OpenVAS-2ECC71?&style=for-the-badge&logo=OpenVAS&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Cuckoo%20Sandbox-000000?&style=for-the-badge&logo=Cuckoo%20Sandbox&logoColor=white" />
-    <img src="https://img.shields.io/badge/-OPSWAT%20MetaDefender-00B0FF?&style=for-the-badge&logo=OPSWAT&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Hosted.scan-00B0FF?&style=for-the-badge&logo=OPSWAT&logoColor=white" />   
 </div>
 
 ### SIEM
 <div>
     <img src="https://img.shields.io/badge/-Microsoft_Sentinel-0078D4?&style=for-the-badge&logo=Microsoft&logoColor=white" />
-    <img src="https://img.shields.io/badge/-AlienVault_Open_Source_SIEM-000000?&style=for-the-badge&logo=AlienVault&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Elastic-005571?&style=for-the-badge&logo=Elastic&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Wazuh-2E86C1?&style=for-the-badge&logo=Wazuh&logoColor=white" />
     <img src="https://img.shields.io/badge/-Snort-0080FF?&style=for-the-badge&logo=Snort&logoColor=white" />
 
 ### Vulnerability Management
 <div>
     <img src="https://img.shields.io/badge/-OpenVAS-2ECC71?&style=for-the-badge&logo=OpenVAS&logoColor=white" />
     <img src="https://img.shields.io/badge/-Nessus-3399FF?&style=for-the-badge&logo=Nessus&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Nexpose-000000?&style=for-the-badge&logoColor=white" />
     <img src="https://img.shields.io/badge/-Qualys%20Free%20Scan-F99209?&style=for-the-badge&logo=Qualys&logoColor=white" />
     <img src="https://img.shields.io/badge/-OWASP%20ZAP-FF4000?&style=for-the-badge&logo=OWASP&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Nikto-222222?&style=for-the-badge&logo=Nikto&logoColor=white" />
     <img src="https://img.shields.io/badge/-Maltego-3F72AF?&style=for-the-badge&logo=Maltego&logoColor=white" />
-    <img src="https://img.shields.io/badge/-SpiderFoot-000000?&style=for-the-badge&logoColor=white" />
 </div>
 
 ### Incident Response
 <div>
-    <img src="https://img.shields.io/badge/-Velociraptor-4B275F?&style=for-the-badge&logo=Velociraptor&logoColor=white" />
     <img src="https://img.shields.io/badge/-AlienVault_Open_Source_SIEM-000000?&style=for-the-badge&logo=AlienVault&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Zeek-777BB4?&style=for-the-badge&logo=Zeek&logoColor=white" />
     <img src="https://img.shields.io/badge/-OpenVAS-2ECC71?&style=for-the-badge&logo=OpenVAS&logoColor=white" />
     <img src="https://img.shields.io/badge/-Snort-0080FF?&style=for-the-badge&logo=Snort&logoColor=white" />
 </div>
@@ -136,15 +113,9 @@ Datafolio[/data.png]
 <div>
     <img src="https://img.shields.io/badge/-OWASP_ZAP-FF4000?&style=for-the-badge&logo=OWASP&logoColor=white" />
     <img src="https://img.shields.io/badge/-Burp_Suite-FF6347?&style=for-the-badge&logo=Burp%20Suite&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Nikto-222222?&style=for-the-badge&logo=Nikto&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Arachni-151515?&style=for-the-badge&logo=Arachni&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Wapiti-FF5733?&style=for-the-badge&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Nessus-00ADEF?&style=for-the-badge&logo=Nessus&logoColor=white" />
     <img src="https://img.shields.io/badge/-Acunetix-EE0000?&style=for-the-badge&logo=Acunetix&logoColor=white" />
     <img src="https://img.shields.io/badge/-Splunk-000000?&style=for-the-badge&logo=Splunk&logoColor=white" />
-    <img src="https://img.shields.io/badge/-SSL_Labs-0033CC?&style=for-the-badge&logo=SSL%20Labs&logoColor=white" />
     <img src="https://img.shields.io/badge/-Barracuda-1791D8?&style=for-the-badge&logo=Barracuda&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Pentest_Tools-0078D7?&style=for-the-badge&logo=Pentest%20Tools&logoColor=white" />
 </div>
 
 
@@ -152,12 +123,7 @@ Datafolio[/data.png]
 <div>
     <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
     <img src="https://img.shields.io/badge/-Nmap-4D4D4D?&style=for-the-badge&logo=Nmap&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Nikto-0095D5?&style=for-the-badge&logoColor=white" />
-    <img src="https://img.shields.io/badge/-SpiderFoot-FFA500?&style=for-the-badge&logoColor=white" />
     <img src="https://img.shields.io/badge/-Maltego-4B0082?&style=for-the-badge&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Wazuh-405B62?&style=for-the-badge&logoColor=white" />
-    <img src="https://img.shields.io/badge/-GlassWire-0077CC?&style=for-the-badge&logo=GlassWire&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Fing-44CC44?&style=for-the-badge&logo=Fing&logoColor=white" />
 </div>
 
 ### Firewall 
@@ -165,19 +131,13 @@ Datafolio[/data.png]
     <img src="https://img.shields.io/badge/-Windows%20Firewall-0078D7?&style=for-the-badge&logo=Windows&logoColor=white" />
     <img src="https://img.shields.io/badge/-AlienVault-7B53C1?&style=for-the-badge&logo=AlienVault&logoColor=white" />
     <img src="https://img.shields.io/badge/-Linux%20Default%20Firewall-A31900?&style=for-the-badge&logo=Linux&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Smoothwall-1F305E?&style=for-the-badge&logo=Smoothwall&logoColor=white" />
     <img src="https://img.shields.io/badge/-pfSense-2E3192?&style=for-the-badge&logo=pfSense&logoColor=white" />
     <img src="https://img.shields.io/badge/-FortiGate-EE3124?&style=for-the-badge&logo=Fortinet&logoColor=white" />
-    <img src="https://img.shields.io/badge/-TinyWall-00B0FF?&style=for-the-badge&logo=Windows&logoColor=white" />
-    <img src="https://img.shields.io/badge/-GlassWire-0077CC?&style=for-the-badge&logo=GlassWire&logoColor=white" />
 </div>
 
 ### VPNs
 <div>
     <img src="https://img.shields.io/badge/-OpenVPN-00A4EF?&style=for-the-badge&logo=OpenVPN&logoColor=white" />
-    <img src="https://img.shields.io/badge/-ProtonVPN-4B275F?&style=for-the-badge&logo=ProtonVPN&logoColor=white" />
-    <img src="https://img.shields.io/badge/-WireGuard-2ECC71?&style=for-the-badge&logo=WireGuard&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Mullvad%20VPN-000000?&style=for-the-badge&logo=Mullvad%20VPN&logoColor=white" />
 </div>
 
 ### Cryptography
@@ -185,12 +145,6 @@ Datafolio[/data.png]
     <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
     <img src="https://img.shields.io/badge/-7-Zip-000000?&style=for-the-badge&logo=7-Zip&logoColor=white" />
     <img src="https://img.shields.io/badge/-BitLocker-0078D7?&style=for-the-badge&logo=Microsoft&logoColor=white" />
-    <img src="https://img.shields.io/badge/-VeraCrypt-00BFFF?&style=for-the-badge&logo=VeraCrypt&logoColor=white" />
-    <img src="https://img.shields.io/badge/-GtkHash-2C3539?&style=for-the-badge&logo=Gtk&logoColor=white" />
-    <img src="https://img.shields.io/badge/-GPG4-0093D1?&style=for-the-badge&logo=GNU%20Privacy%20Guard&logoColor=white" />
-    <img src="https://img.shields.io/badge/-HashCalc-008080?&style=for-the-badge&logo=Calculator&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Tor-7E4798?&style=for-the-badge&logo=Tor%20Project&logoColor=white" />
-    <img src="https://img.shields.io/badge/-GNU-2088FF?&style=for-the-badge&logo=GNU&logoColor=white" />
     <img src="https://img.shields.io/badge/-PowerShell-5391FE?&style=for-the-badge&logo=PowerShell&logoColor=white" />
     <img src="https://img.shields.io/badge/-Hex%20Workshop-CC6600?&style=for-the-badge&logo=Hex%20Workshop&logoColor=white" />
 </div>
@@ -201,17 +155,9 @@ Datafolio[/data.png]
 <div>
     <img src="https://img.shields.io/badge/-Cuckoo%20Sandbox-000000?&style=for-the-badge&logo=Cuckoo%20Sandbox&logoColor=white" />
     <img src="https://img.shields.io/badge/-VirusTotal-3949AB?&style=for-the-badge&logo=VirusTotal&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Joe%20Sandbox-4B275F?&style=for-the-badge&logo=Joe%20Sandbox&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Volatility-0066CC?&style=for-the-badge&logo=Volatility&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Radare2-313131?&style=for-the-badge&logo=Radare2&logoColor=white" />
-    <img src="https://img.shields.io/badge/-YARA-3A4E84?&style=for-the-badge&logo=YARA&logoColor=white" />
     <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
     <img src="https://img.shields.io/badge/-Any.Run-FFA500?&style=for-the-badge&logoColor=white" />
     <img src="https://img.shields.io/badge/-TotalVirus-0088CC?&style=for-the-badge&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Process%20Hacker-660066?&style=for-the-badge&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Process%20Monitor-0078D6?&style=for-the-badge&logo=Microsoft&logoColor=white" />
-    <img src="https://img.shields.io/badge/-PEStudio-00557D?&style=for-the-badge&logoColor=white" />
-    <img src="https://img.shields.io/badge/-ClamAV-4B275F?&style=for-the-badge&logo=ClamAV&logoColor=white" />
     <img src="https://img.shields.io/badge/-MxToolbox-D60651?&style=for-the-badge&logoColor=white" />
 </div>
 
@@ -219,15 +165,8 @@ Datafolio[/data.png]
 <div>
     <img src="https://img.shields.io/badge/-Windows_Anti_virus-0078D6?&style=for-the-badge&logo=Windows&logoColor=white" />
     <img src="https://img.shields.io/badge/-Bitdefender-ED1C24?&style=for-the-badge&logo=Bitdefender&logoColor=white" />
-    <img src="https://img.shields.io/badge/-ClamAV-4B275F?&style=for-the-badge&logo=ClamAV&logoColor=white" />
     <img src="https://img.shields.io/badge/-Sophos-00ADEF?&style=for-the-badge&logo=Sophos&logoColor=white" />
     <img src="https://img.shields.io/badge/-Malwarebytes-FF9900?&style=for-the-badge&logo=Malwarebytes&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Hitman_Pro-FF0000?&style=for-the-badge&logo=HitmanPro&logoColor=white" />
-    <img src="https://img.shields.io/badge/-RKill-800000?&style=for-the-badge&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Comodo-990000?&style=for-the-badge&logo=Comodo&logoColor=white" />
-    <img src="https://img.shields.io/badge/-ESET-52C838?&style=for-the-badge&logo=ESET&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Norton_Power_Eraser-003399?&style=for-the-badge&logo=Symantec&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Rogue_Killer-990000?&style=for-the-badge&logoColor=white" />
     <img src="https://img.shields.io/badge/-Kaspersky-0066CC?&style=for-the-badge&logo=Kaspersky&logoColor=white" />
 </div>
 
@@ -238,35 +177,28 @@ Datafolio[/data.png]
     <img src="https://img.shields.io/badge/-Ubuntu-E95420?&style=for-the-badge&logo=Ubuntu&logoColor=white" />
     <img src="https://img.shields.io/badge/-macOS-000000?&style=for-the-badge&logo=Apple&logoColor=white" />
     <img src="https://img.shields.io/badge/-Kali_Linux-557C94?&style=for-the-badge&logo=Kali%20Linux&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Parrot_OS-3498DB?&style=for-the-badge&logo=Parrot%20OS&logoColor=white" />
     <img src="https://img.shields.io/badge/-Ubuntu_Server-E95420?&style=for-the-badge&logo=Ubuntu&logoColor=white" />
-    <img src="https://img.shields.io/badge/-KDE_Plasma-1D99F3?&style=for-the-badge&logo=KDE&logoColor=white" />
-    <img src="https://img.shields.io/badge/-CentOS-262577?&style=for-the-badge&logo=CentOS&logoColor=white" />
 </div>
 
 ### Scripting and Automation
 <div>
     <img src="https://img.shields.io/badge/-Python-3776AB?&style=for-the-badge&logo=Python&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Bash-3776AB?&style=for-the-badge&logo=Bash&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Powershell-3776AB?&style=for-the-badge&logo=Powershell&logoColor=white" />
+  
   </div>
 
 ### Cloud Services
 <div>
-    <img src="https://img.shields.io/badge/-AWS_Essentials-232F3E?&style=for-the-badge&logo=Amazon%20AWS&logoColor=white" />
-    <img src="https://img.shields.io/badge/-IBM_Cloud-054ADA?&style=for-the-badge&logo=IBM&logoColor=white" />
+    <img src="https://img.shields.io/badge/-AWS-232F3E?&style=for-the-badge&logo=Amazon%20AWS&logoColor=white" />
     <img src="https://img.shields.io/badge/-Google_Cloud-4285F4?&style=for-the-badge&logo=Google%20Cloud&logoColor=white" />
     <img src="https://img.shields.io/badge/-Docker-2496ED?&style=for-the-badge&logo=Docker&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Podman-5965E1?&style=for-the-badge&logo=Red%20Hat&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Nextcloud-0082C9?&style=for-the-badge&logo=Nextcloud&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Webmin-00BFFF?&style=for-the-badge&logo=Webmin&logoColor=white" />
 </div>
 
 
 ### Virtual Machines and Containers
 <div>
     <img src="https://img.shields.io/badge/-VirtualBox-183A61?&style=for-the-badge&logo=VirtualBox&logoColor=white" />
-    <img src="https://img.shields.io/badge/-GNOME_Boxes-4A86CF?&style=for-the-badge&logo=GNOME&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Proxmox-E57000?&style=for-the-badge&logo=Proxmox&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Podman-5965E1?&style=for-the-badge&logo=Red%20Hat&logoColor=white" />
     <img src="https://img.shields.io/badge/-Docker-2496ED?&style=for-the-badge&logo=Docker&logoColor=white" />
 </div>
 
@@ -277,9 +209,7 @@ Datafolio[/data.png]
     <img src="https://img.shields.io/badge/-Nmap-4D4D4D?&style=for-the-badge&logo=Nmap&logoColor=white" />
     <img src="https://img.shields.io/badge/-Kali_Linux-557C94?&style=for-the-badge&logo=Kali%20Linux&logoColor=white" />
     <img src="https://img.shields.io/badge/-Digital_Forensics_Framework_%28DFF%29-324D5C?&style=for-the-badge&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Network_Miner-000000?&style=for-the-badge&logoColor=white" />
     <img src="https://img.shields.io/badge/-Tcpdump-0457A0?&style=for-the-badge&logo=Wireshark&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Process_Monitor-68BB59?&style=for-the-badge&logo=Windows%20Sysinternals&logoColor=white" />
     <img src="https://img.shields.io/badge/-FTK_Imager-3E3E3E?&style=for-the-badge&logoColor=white" />
     <img src="https://img.shields.io/badge/-Encase-00205B?&style=for-the-badge&logo=Windows%20Sysinternals&logoColor=white" />
 </div>
@@ -291,7 +221,6 @@ Datafolio[/data.png]
     <img src="https://img.shields.io/badge/-TheHarvester-36393F?&style=for-the-badge&logoColor=white" />
     <img src="https://img.shields.io/badge/-Shodan-000000?&style=for-the-badge&logoColor=white" />
     <img src="https://img.shields.io/badge/-OSINT_Framework-324D5C?&style=for-the-badge&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Spokeo-000000?&style=for-the-badge&logoColor=white" />
     <img src="https://img.shields.io/badge/-Recon_ng-880000?&style=for-the-badge&logoColor=white" />
     <img src="https://img.shields.io/badge/-Intelligence_X-0F9D58?&style=for-the-badge&logo=Google&logoColor=white" />
     <img src="https://img.shields.io/badge/-Google_Dorking-4285F4?&style=for-the-badge&logo=Google&logoColor=white" />
@@ -315,9 +244,6 @@ Datafolio[/data.png]
     <img src="https://img.shields.io/badge/-TeamViewer-0E8EE9?&style=for-the-badge&logo=TeamViewer&logoColor=white" />
     <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
     <img src="https://img.shields.io/badge/-PuTTY-00A0E0?&style=for-the-badge&logo=PuTTY&logoColor=white" />
-    <img src="https://img.shields.io/badge/-AnyDesk-1B7CCF?&style=for-the-badge&logo=AnyDesk&logoColor=white" />
-    <img src="https://img.shields.io/badge/-LogMeIn-00A6F0?&style=for-the-badge&logo=LogMeIn&logoColor=white" />
-    <img src="https://img.shields.io/badge/-GoToAssist-00A6F0?&style=for-the-badge&logo=GoToAssist&logoColor=white" />
     <img src="https://img.shields.io/badge/-Zoom-2D8CFF?&style=for-the-badge&logo=Zoom&logoColor=white" />
     <img src="https://img.shields.io/badge/-Microsoft_Teams-6264A7?&style=for-the-badge&logo=Microsoft%20Teams&logoColor=white" />
     <img src="https://img.shields.io/badge/-Slack-4A154B?&style=for-the-badge&logo=Slack&logoColor=white" />
