@@ -278,16 +278,20 @@ With optimal marketing strategies, presidential candidates will be able to bette
 <img src="https://img.shields.io/badge/-Verizon%20Cybersecurity%20Accreditation%20Program-FF0000?style=for-the-badge&logo=verizon&logoColor=white" />
 <img src="https://img.shields.io/badge/-Splunk%20Fundamentals-000000?style=for-the-badge&logo=splunk&logoColor=green" />
 <img src="https://img.shields.io/badge/-Palo%20Alto%20Prisma%20Associate-FFA500?style=for-the-badge&logo=palo-alto-networks&logoColor=white" />
-
+<img src="https://img.shields.io/badge/-iboss%20Cloud%20Core%20Accreditation-000000?style=for-the-badge&logo=iboss&logoColor=green" />
+<img src="https://img.shields.io/badge/-Securonix%20Certified%20Sales%20Professional-808080?style=for-the-badge&logo=securonix&logoColor=purple" />
+<img src="https://img.shields.io/badge/-Cradlepoint%20Certified%20Sales%20Associate-333333?style=for-the-badge&logo=cradlepoint&logoColor=yellow" />
+<img src="https://img.shields.io/badge/-Zscaler%20Certified%20Associate-0000FF?style=for-the-badge&logo=zscaler&logoColor=white" />
+<img src="https://img.shields.io/badge/-Crowdstrike%20PARTNER%201-FF0000?style=for-the-badge&logo=crowdstrike&logoColor=white" />
 </div><br>
 
 
 ## Memberships
-- **ISACA**
-- **(ISC)2**
-- **IEEE@NYU**
-- **Cyber Fellows**
-- **Mastermind Mentorship Program**
+<div>
+<img src="https://img.shields.io/badge/-ISACA-0000FF?style=for-the-badge&logo=isaca&logoColor=white" />
+<img src="https://img.shields.io/badge/-ISC2-008000?style=for-the-badge&logo=isc2&logoColor=white" />
+<img src="https://img.shields.io/badge/-IEEE@NYU-800080?style=for-the-badge&logo=ieee&logoColor=white" />
+</div><br>
 
 
 ## Awards
