@@ -275,7 +275,10 @@ With optimal marketing strategies, presidential candidates will be able to bette
    
 ## Certifications
 <div>
-<img src="https://img.shields.io/badge/-ISC2%20Certified%20in%20Cybersecurity%20(CC)-00599C?style=for-the-badge&logoColor=white" />
+<img src="https://img.shields.io/badge/-Verizon%20Cybersecurity%20Accreditation%20Program-FF0000?style=for-the-badge&logo=verizon&logoColor=white" />
+<img src="https://img.shields.io/badge/-Splunk%20Fundamentals-000000?style=for-the-badge&logo=splunk&logoColor=green" />
+<img src="https://img.shields.io/badge/-Palo%20Alto%20Prisma%20Associate-FFA500?style=for-the-badge&logo=palo-alto-networks&logoColor=white" />
+
 </div><br>
 
 
