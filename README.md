@@ -1,8 +1,9 @@
 # Cybersecurity Analyst
 
-[LinkedIn](https://www.linkedin.com/in/ripunjaysingh/)
-[Medium](https://medium.com/@ripunjay65)
+[LinkedIn](https://www.linkedin.com/in/ripunjaysingh/) • 
+[Medium](https://medium.com/@ripunjay65) • 
 [Poetry](https://www.amazon.com/VisWis-Ripunjay-Singh/dp/B0CLJRTMP2)
+<br>
 
 ## Education		
 - M.S., Cybersecurity	| New York University (_May 2025_)	 			        		
@@ -281,7 +282,11 @@ With optimal marketing strategies, presidential candidates will be able to bette
 ## Other
 
 ### **Memberships**
-**ISACA, (ISC)2, IEEE@NYU, Cyber Fellows, Cyber Fellows, Mastermind Mentorship Program**
+- **ISACA
+- (ISC)2
+- IEEE@NYU
+- Cyber Fellows
+- Mastermind Mentorship Program**
 
 ### **Awards**
 **Winner – (ISC)2 Capture the Flag, Winner – UPS Hackathon, Gold Medal – School of Business**
