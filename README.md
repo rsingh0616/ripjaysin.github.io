@@ -7,7 +7,8 @@
 
 ## Education		
 - M.S., Cybersecurity	| New York University (_May 2025_)	 			        		
-- B.S., Computer Science | New Jersey City University (_May 2021_)    		
+- B.S., Computer Science | New Jersey City University (_May 2021_)
+- Data Science Fellowship | Data Science 4 All – Correlation One Cohort 1 (_Feb 2021_)    		
 
 ### Relevant Coursework
   - Information Security and Privacy<br>
@@ -42,6 +43,9 @@
 - Led team in sentiment analysis with Text Blob, VADER, and NLTK, analyzing 100,000+ student responses
 - Used Tableau and Power BI for data-driven marketing decisions, achieving 50% growth in Instagram and website traffic
 - Managed community outreach projects via social media across 50+ schools and 500+ students
+
+**CADP Summer Analyst @ JP Morgan Chase (_July 2020 – Aug 2020_)**
+- Streamlined KYC/Onboarding in Investment Banking, reducing processing time by 30% and increasing accuracy by 25%
 
 **Software Engineer @ United Parcel Service (_Jun 2019 - July 2020_)**
 - Strengthened BIA website security by executing PL/SQL Procedures, decreasing SQL injection attacks by 40%
